@@ -34,6 +34,6 @@ if __name__ == "__main__":
     root.left.right = Node(5)
     print(Solution().diameter(root))
 
-# Time Complexity: O(n)
-# Space Complexity: O(n)
+# Time Complexity: O(n^2)
+# Space Complexity: O(1)
 
