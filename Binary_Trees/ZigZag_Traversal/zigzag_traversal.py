@@ -57,4 +57,4 @@ if __name__ == "__main__":
 
 
 # Time Complexity: O(n), where n is the number of nodes in the binary tree.
-# Space Complexity: O(n), where n is the number of nodes in the binary tree (due to the queue storing nodes at each level).
+# Space Complexity: O(n), where n is the number of nodes in the binary tree.
